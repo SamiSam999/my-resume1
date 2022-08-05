@@ -17,7 +17,7 @@ $ar = document.getElementById("15").innerHTML ="<span >تطبيق مكتبي ج�
 $ar = document.getElementById("16").innerHTML ="<spane > الضريبة السهلة: </spane><br/>";
 $ar = document.getElementById("17").innerHTML ="<span >تطبيق مكتبي جافا(لحساب النسبة والقيمة المضافة)</span> <br>";
 $ar = document.getElementById("18").innerHTML ="<spane >السيرة الذاتية: </spane><br/>";
-$ar = document.getElementById("19").innerHTML ="<span ><a href="https://samisam999.github.io/my-resume1.github.io/" target="blank" ></a> موقع الكتروني للسيرتي الذاتية</span>";
+$ar = document.getElementById("19").innerHTML ="<span ><a href=https://samisam999.github.io/my-resume1.github.io/ target=blank>موقع الكتروني للسيرتي الذاتية</a></span>";
 
 }
 

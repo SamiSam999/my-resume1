@@ -1,0 +1,131 @@
+.site1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    justify-self: center;
+    background-image: url("photos/depositphotos_82602352-stock-illustration-dots-with-connections-background.jpg");
+   color:blue;
+   z-index: 3;
+}
+#me{
+    margin-top: 5px;
+    height:140px; 
+    width:150px;
+    border: 2px lightslategray solid;
+    border-color: lightslategray;
+    box-shadow: 1px 2px 5px 5px rgb(255, 255, 255);
+}
+.pic{
+    align-items: center;
+    justify-items: center;
+justify-self: center;
+}
+.mysite{
+font-size: 25px;
+    justify-items: center;
+ width:60%;
+ justify-items: center;
+margin-left: 25%;
+margin-right: 25%;
+    color:white;
+    border: black 5px solid;
+ 
+ animation: color 20s infinite;
+ }
+ @keyframes color{
+    0%{background:yellowgreen;}
+    25%{background:blue ;}
+    60%{background:lightskyblue;}
+    100%{background:orangered ;}
+ }
+ .lan{
+    
+    
+     background:darkblue;
+ }
+ .btn{
+    float:left;
+    margin:2px;
+    z-index: 2;
+     background:white;
+     color:blue;
+    
+ }
+
+ #p{
+
+    width: 135px;
+  
+ }
+
+
+
+.lan{
+    margin-top: 10px;
+}
+.site2{
+    height: fit-content;
+    font-size: 16px;
+}
+.site5{
+   position: relative;
+  
+  
+}
+.site7{
+    position: relative;
+margin-top: 5px;
+height:350px;
+width:auto;
+
+background-size: 100% 100%;
+ box-shadow: 1px 2px 5px 10px white;
+    animation: x 50s infinite backwards; 
+    z-index: 1; 
+    }
+   
+   
+   @keyframes x{ 
+        0%{background-image:url("photos/signo2.JPG") ;} 
+        33%{background-image:url("photos/VAT.JPG");} 
+       66%{background-image:url("photos/myphoto.PNG");} 
+        100%{background-image:url("photos/VAT2.JPG");} 
+       
+   } 
+   li{
+    width:100%;
+ font-size: 20px;
+ font:bold italic;
+}
+.t{
+
+ justify-content:center;
+ color:blue;
+}
+.ln{
+
+ color:blue;
+ text-decoration: none;
+
+}
+a:hover{
+ color:goldenrod;
+ cursor:grabbing;
+}
+spane{
+ color:darkblue;
+}
+#b{
+  width:100px;
+  color:blue;
+}
+#b1{
+    width:100px;
+  color:blue;}
+  .s{
+    color:blue;
+  }
+.tab1{
+    justify-content:right;
+    tab-size: 8;
+}
